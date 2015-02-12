@@ -1,4 +1,4 @@
-# Web::Console::Rake
+# web-console-rake
 
 This enable invoke Rake task on web-console REPL.
 
@@ -25,6 +25,18 @@ Or install it yourself as:
 ## Usage
 
 You can call `rake(taskname)` method on web-console REPL.
+
+If you want to use `spring`, you can add `:spring` option.
+
+```ruby
+rake "db:migrate", spring: true
+```
+
+If you want to make spring mode default,
+
+```ruby
+WebConsole::Rake.use_spring = true
+```
 
 ## Development
 
