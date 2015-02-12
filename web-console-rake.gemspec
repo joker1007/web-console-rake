@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["joker1007"]
   spec.email         = ["kakyoin.hierophant@gmail.com"]
 
-  spec.summary       = %q{Invoke Rake task from web-console}
-  spec.description   = %q{Invoke Rake task from web-console}
+  spec.summary       = %q{Invoke Rake task on web-console}
+  spec.description   = %q{Invoke Rake task on web-console}
   spec.homepage      = "https://github.com/joker1007/web-console-rake"
   spec.license       = "MIT"
 
