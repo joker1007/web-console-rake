@@ -1,4 +1,5 @@
 # web-console-rake
+[![Gem Version](https://badge.fury.io/rb/web-console-rake.svg)](http://badge.fury.io/rb/web-console-rake)
 
 This enable invoke Rake task on web-console REPL.
 
