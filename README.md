@@ -2,6 +2,10 @@
 
 This enable invoke Rake task on web-console REPL.
 
+## ScreenCast
+
+![web-console-rake](https://cloud.githubusercontent.com/assets/116996/6167767/20e28a5e-b302-11e4-934e-4430969a6805.gif)
+
 ## Installation
 
 Add this line to your application's Gemfile:
